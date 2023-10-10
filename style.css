@@ -1,0 +1,41 @@
+#myCanvas{
+    border-width: 3px;
+    border-color: cyan;
+    border-style: ridge;
+    background-color: white;
+    
+    }
+    
+    button{
+    box-shadow: 10px 10px 2px cyan;
+    background-color: blue;
+    color: red;
+    }
+    input{
+    color: red;
+    background-color: yellowgreen;
+    }
+    span{
+        color: black;
+        text-shadow: 5px 5px 2px darkblue;
+    
+    }
+    body{
+    background-size: cover;
+    
+    }
+    
+    body{
+        background-image: url("mars.gif");
+        background-position: center;
+        background-size: cover;
+    }
+   
+    
+    h1,h4
+    {
+        color: cyan !important;
+        text-shadow: 4px 7px 2px  red;
+    }
+
+    
